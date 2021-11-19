@@ -1,6 +1,6 @@
 Package: COCOA
-Version: 2.9.0
-Date: 2020-10-27
+Version: 2.9.1
+Date: 2021-11-18
 Title: Coordinate Covariation Analysis
 Description: COCOA is a method for understanding epigenetic variation among samples.
     COCOA can be used with epigenetic data that includes
